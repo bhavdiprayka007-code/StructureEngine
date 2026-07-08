@@ -1,1 +1,9 @@
+//@version=6
+indicator("Structure Engine v1", overlay=true, max_lines_count=500, max_labels_count=500)
 
+// ============================================================================
+// Structure Engine v1
+// Reference implementation: engine_final2.py
+// Status: Foundation initialized.
+// Goal: 100% behavior match with Python engine.
+// ============================================================================
